@@ -9,7 +9,7 @@
 - boilermake, Jan 20 - 22, 2017, Purdue
 - ([Apply Now](https://www.yhack.org/apply)) **YHACK, Dec 1- 3, 2017, Yale**
 - ([Apply Now](https://hackrpi.com)) **HackRPI, Nov 11 - 12, 2017, RPI**
-- ([Application Closed]) HackPrinceton, Nov 10 - 12, 2017, Princeton
+- (Application Closed) HackPrinceton, Nov 10 - 12, 2017, Princeton
 - ([Apply Now](https://wildhacks.org/register)) **wildhacks, Nov 3 - 5, 2017, Northwestern**
 - ([Apply Now](https://my.bostonhacks.io/signup)) **BostonHacks, Oct 28 - 29, Boston University**
 - (Application Closed) hacktx, Oct 28 - 29 2017, University of Texas Austin
