@@ -1,5 +1,4 @@
 # College Hacks
-List of College Hackathons
 
 - hacktech, Mar 2018, California Institute of Technologies
 - hackillinois, Feb 23 - 25, 2018, University of Illinois
