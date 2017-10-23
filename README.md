@@ -30,6 +30,6 @@ Know More Hackathons?
 ===
 Please fork the repo, modify the list and create a merge request.
 
-Find Some errors?
+Find Some Errors?
 ===
 Please fork the repo, update the list and create a merge request.
