@@ -26,10 +26,10 @@ Contributors
 ===
 [Harry Liu](https://github.com/byliuyang) -- **Initial works**
 
-You Know More Hackathons?
+Know More Hackathons?
 ===
 Please fork the repo, modify the list and create a merge request.
 
-This Are Some Errors?
+Find Some errors?
 ===
 Please fork the repo, update the list and create a merge request.
