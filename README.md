@@ -1,6 +1,6 @@
 # College Hacks
 
-## Upcomming
+## Upcoming
 
 - ([Apply Now](https://my.bostonhacks.io/signup)) **BostonHacks, Oct 28 - 29, Boston University**
 - ([Apply Now](https://wildhacks.org/register)) **wildhacks, Nov 3 - 5, 2017, Northwestern**
