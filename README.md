@@ -1,8 +1,6 @@
 # College Hacks
 
 ## Upcoming
-
-- ([Apply Now](https://my.bostonhacks.io/signup)) **BostonHacks, Oct 28 - 29, Boston University**
 - ([Apply Now](https://wildhacks.org/register)) **wildhacks, Nov 3 - 5, 2017, Northwestern**
 - ([Apply Now](https://hackrpi.com)) **HackRPI, Nov 11 - 12, 2017, RPI**
 - ([Apply Now](https://www.yhack.org/apply)) **YHACK, Dec 1- 3, 2017, Yale**
@@ -27,6 +25,7 @@
 - (**Ended**) bigredhacks, Sept 15 - 17, 2017, Cornell
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
+- (**Ended**)(https://my.bostonhacks.io/signup)) **BostonHacks, Oct 28 - 29, Boston University**
 
 Contributors
 ===
