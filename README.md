@@ -28,9 +28,9 @@
 
 Contributors
 ===
-[Harry Liu](https://github.com/byliuyang) -- **Initial works**
-[Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
-[Nick Krichevsky](https://github.com/ollien) -- **Update event status**
+- [Harry Liu](https://github.com/byliuyang) -- **Initial works**
+- [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
+- [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
 
 Know More Hackathons?
 ===
