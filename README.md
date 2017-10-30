@@ -14,23 +14,23 @@
 - hacktech, Mar 2018, California Institute of Technologies
 
 ## Application Closed or Ended
-
 - (Application Closed) HackPrinceton, Nov 10 - 12, 2017, Princeton
 - (Application Closed) hacktx, Oct 28 - 29 2017, University of Texas Austin
 - (**Ended**) hackgt, Oct 13 - 15, 2017, Georgia Institute of Technology
 - (**Ended**) calhacks, Oct 6 -8, 2017, University of California--Berkeley
 - (**Ended**) MHacks, Sept 22 - 24, 2017, University of Michigan North Campus
-- (**Ended**) HackMIT, Sept 16 - 17, 2017, MIT
+- (**Ended**)([Puzzles](https://delorean.codes))([Submissions](https://hackmit2017.devpost.com/submissions)) HackMIT, Sept 16 - 17, 2017, MIT
 - (**Ended**) hophacks, Sept 15 - 17, 2017, John Hopkins
 - (**Ended**) bigredhacks, Sept 15 - 17, 2017, Cornell
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
-- (**Ended**)(https://my.bostonhacks.io/signup)) **BostonHacks, Oct 28 - 29, Boston University**
+- (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, Boston University
 
 Contributors
 ===
 [Harry Liu](https://github.com/byliuyang) -- **Initial works**
 [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
+[Nick Krichevsky](https://github.com/ollien) -- **Update event status**
 
 Know More Hackathons?
 ===
