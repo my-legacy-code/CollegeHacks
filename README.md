@@ -10,6 +10,7 @@
 - hack@brown, Feb 3 - 4, 2018, Brown
 - TreeHack, Feb 16 - 18, 2018, Stanford
 - hackillinois, Feb 23 - 25, 2018, University of Illinois
+- ([Apply Now](https://hacktcnj.com)) HackTCNJ, Feb 24 - 25, The College of New Jersey
 - vthacks, Feb 2018, Virginia Tech
 - hacktech, Mar 2018, California Institute of Technologies
 
