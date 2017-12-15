@@ -1,22 +1,25 @@
 # College Hacks
 
 ## Upcoming
-- ([Apply Now](https://wildhacks.org/register)) **wildhacks, Nov 3 - 5, 2017, Northwestern**
-- ([Apply Now](https://hackrpi.com)) **HackRPI, Nov 11 - 12, 2017, RPI**
-- ([Apply Now](https://www.yhack.org/apply)) **YHACK, Dec 1- 3, 2017, Yale**
-- MLH Local Hack Day, Dec 2, 2017 Worldwide
-- Hack@WPI, Jan 12 - 14, 2017 Worcester Polytechic Institute
-- boilermake, Jan 20 - 22, 2017, Purdue
-- hack@brown, Feb 3 - 4, 2018, Brown
-- TreeHack, Feb 16 - 18, 2018, Stanford
+- ([Apply Now](http://hack.wpi.edu)) **Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute**
+- (Application closed) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
+- boilermake, Jan 20 - 22, 2018, Purdue
+- (Application closed) MakeHarvard, Feb 3 - 4, 2018, Harvard
+- ([Apply Now](https://2018.hackatbrown.org)) **hack@brown, Feb 3 - 4, 2018, Brown**
+- (Application closed) TreeHack, Feb 16 - 18, 2018, Stanford
 - hackillinois, Feb 23 - 25, 2018, University of Illinois
-- ([Apply Now](https://hacktcnj.com)) HackTCNJ, Feb 24 - 25, The College of New Jersey
+- ([Apply Now](https://hacktcnj.com)) **HackTCNJ, Feb 24 - 25, The College of New Jersey**
 - vthacks, Feb 2018, Virginia Tech
-- hacktech, Mar 2018, California Institute of Technologies
+- ([Apply Now](https://hacktechteam.typeform.com/to/yJkyRe)) **hacktech, Mar 2 - 4, 2018, California Institute of Technologies**
+- HackDartmouth, Apr 14 - 15, 2018, Dartmouth College
 
 ## Application Closed or Ended
-- (Application Closed) HackPrinceton, Nov 10 - 12, 2017, Princeton
-- (Application Closed) hacktx, Oct 28 - 29 2017, University of Texas Austin
+- (**Ended**) wildhacks, Nov 3 - 5, 2017, Northwestern
+- (**Ended**) HackRPI, Nov 11 - 12, 2017, RPI
+- (**Ended**) YHACK, Dec 1- 3, 2017, Yale
+- (**Ended**) MLH Local Hack Day, Dec 2, 2017 Worldwide
+- (**Ended**) HackPrinceton, Nov 10 - 12, 2017, Princeton
+- (**Ended**) hacktx, Oct 28 - 29 2017, University of Texas Austin
 - (**Ended**) hackgt, Oct 13 - 15, 2017, Georgia Institute of Technology
 - (**Ended**) calhacks, Oct 6 -8, 2017, University of California--Berkeley
 - (**Ended**) MHacks, Sept 22 - 24, 2017, University of Michigan North Campus
@@ -25,13 +28,14 @@
 - (**Ended**) bigredhacks, Sept 15 - 17, 2017, Cornell
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
-- (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, Boston University
+- (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, 2017, Boston University
 
 Contributors
 ===
 - [Harry Liu](https://github.com/byliuyang) -- **Initial works**
 - [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
 - [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
+- [Kevin Bohinski](https://github.com/kbohinski) -- **Add new event**
 
 Know More Hackathons?
 ===
