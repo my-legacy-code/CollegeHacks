@@ -36,6 +36,7 @@ Contributors
 - [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
 - [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
 - [Kevin Bohinski](https://github.com/kbohinski) -- **Add new event**
+- [Ankur Gupta](https://github.com/agupta231) -- **Update hack@Brown's application status**
 
 Know More Hackathons?
 ===
