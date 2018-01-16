@@ -5,7 +5,7 @@
 - (Application closed) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
 - boilermake, Jan 20 - 22, 2018, Purdue
 - (Application closed) MakeHarvard, Feb 3 - 4, 2018, Harvard
-- ([Apply Now](https://2018.hackatbrown.org)) **hack@brown, Feb 3 - 4, 2018, Brown**
+- (Application closed) **hack@Brown, Feb 3 - 4, 2018, Brown**
 - (Application closed) TreeHack, Feb 16 - 18, 2018, Stanford
 - hackillinois, Feb 23 - 25, 2018, University of Illinois
 - ([Apply Now](https://hacktcnj.com)) **HackTCNJ, Feb 24 - 25, The College of New Jersey**
