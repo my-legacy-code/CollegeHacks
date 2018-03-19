@@ -13,6 +13,7 @@
 - vthacks, Feb 2018, Virginia Tech
 - ([Apply Now](https://hacktechteam.typeform.com/to/yJkyRe)) **hacktech, Mar 2 - 4, 2018, California Institute of Technologies**
 - HackDartmouth, Apr 14 - 15, 2018, Dartmouth College
+- ([Apply Now](http://hacktheheights.com/)) **HackTheHeights, April 21-22, Boston College**
 
 ## Application Closed or Ended
 - (**Ended**) wildhacks, Nov 3 - 5, 2017, Northwestern
@@ -38,6 +39,7 @@ Contributors
 - [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
 - [Kevin Bohinski](https://github.com/kbohinski) -- **Add new event**
 - [Ankur Gupta](https://github.com/agupta231) -- **Update hack@Brown's application status**
+- [Will Wen](https://github.com/willwen) -- **Add Events**
 
 Know More Hackathons?
 ===
