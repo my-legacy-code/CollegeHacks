@@ -3,6 +3,7 @@
 ## Upcoming
 
 ## Application Closed or Ended
+### United States
 - (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
 - (**Ended**) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
 - boilermake, Jan 20 - 22, 2018, Purdue
@@ -32,19 +33,24 @@
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
 - (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, 2017, Boston University
 
-Contributors
-===
+### Canada
+
+## Know More Hackathons?
+Please fork the repo, modify the list and create a merge request.
+
+### Example event
+```markdown
+## Upcoming
+- ([Apply Now](http://hack.wpi.edu)) **Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute**
+```
+
+## Find Some Errors?
+Please fork the repo, update the list and create a merge request.
+
+## Contributors
 - [Harry Liu](https://github.com/byliuyang) -- **Initial works**
 - [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
 - [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
 - [Kevin Bohinski](https://github.com/kbohinski) -- **Add new event**
 - [Ankur Gupta](https://github.com/agupta231) -- **Update hack@Brown's application status**
 - [Will Wen](https://github.com/willwen) -- **Add Events**
-
-Know More Hackathons?
-===
-Please fork the repo, modify the list and create a merge request.
-
-Find Some Errors?
-===
-Please fork the repo, update the list and create a merge request.
