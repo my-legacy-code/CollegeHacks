@@ -1,4 +1,5 @@
 # College Hacks
+Cool Hackathons for college students
 
 ## Upcoming
 
