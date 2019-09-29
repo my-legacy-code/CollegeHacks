@@ -2,6 +2,7 @@
 Cool Hackathons for college students
 
 ## Upcoming
+- ([Application Not Started](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
 ## Application Closed or Ended
 ### United States
