@@ -6,14 +6,14 @@
 ### United States
 - (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
 - (**Ended**) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
-- boilermake, Jan 20 - 22, 2018, Purdue
+- (**Ended**) boilermake, Jan 20 - 22, 2018, Purdue
 - (**Ended**) MakeHarvard, Feb 3 - 4, 2018, Harvard
 - (**Ended**) hack@Brown, Feb 3 - 4, 2018, Brown
 - (**Ended**) TreeHack, Feb 16 - 18, 2018, Stanford
-- hackillinois, Feb 23 - 25, 2018, University of Illinois
+- (**Ended**) hackillinois, Feb 23 - 25, 2018, University of Illinois
 - (**Ended**) MakeMIT, Feb 24, 2018, MIT
 - (**Ended**) HackTCNJ, Feb 24 - 25, The College of New Jersey
-- vthacks, Feb 2018, Virginia Tech
+- (**Ended**) vthacks, Feb 2018, Virginia Tech
 - (**Ended**) hacktech, Mar 2 - 4, 2018, California Institute of Technologies
 - HackDartmouth, Apr 14 - 15, 2018, Dartmouth College
 - (**Ended**) HackTheHeights, April 21-22, Boston College
