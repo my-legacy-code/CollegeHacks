@@ -10,7 +10,7 @@
 - (**Ended**) hack@Brown, Feb 3 - 4, 2018, Brown
 - (**Ended**) TreeHack, Feb 16 - 18, 2018, Stanford
 - hackillinois, Feb 23 - 25, 2018, University of Illinois
-- (**Ended*) MakeMIT, Feb 24, 2018, MIT
+- (**Ended**) MakeMIT, Feb 24, 2018, MIT
 - (**Ended**) HackTCNJ, Feb 24 - 25, The College of New Jersey
 - vthacks, Feb 2018, Virginia Tech
 - (**Ended**) hacktech, Mar 2 - 4, 2018, California Institute of Technologies
