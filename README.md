@@ -47,11 +47,3 @@ Please fork the repo, modify the list and create a merge request.
 
 ## Find Some Errors?
 Please fork the repo, update the list and create a merge request.
-
-## Contributors
-- [Harry Liu](https://github.com/byliuyang) -- **Initial works**
-- [Binam Kayastha](https://github.com/binamkayastha) -- **Organize list by date**
-- [Nick Krichevsky](https://github.com/ollien) -- **Update event status**
-- [Kevin Bohinski](https://github.com/kbohinski) -- **Add new event**
-- [Ankur Gupta](https://github.com/agupta231) -- **Update hack@Brown's application status**
-- [Will Wen](https://github.com/willwen) -- **Add Events**
