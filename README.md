@@ -29,7 +29,7 @@ Cool Hackathons for college students
 - (**Ended**) hackgt, Oct 13 - 15, 2017, Georgia Institute of Technology
 - (**Ended**) calhacks, Oct 6 -8, 2017, University of California--Berkeley
 - (**Ended**) MHacks, Sept 22 - 24, 2017, University of Michigan North Campus
-- (**Ended**)([Puzzles](https://delorean.codes))([Submissions](https://hackmit2017.devpost.com/submissions)) HackMIT, Sept 16 - 17, 2017, MIT
+- (**Ended**)([Puzzles](https://s.time4hacks.com/r/hackmit2017-puzzles))([Submissions](https://hackmit2017.devpost.com/submissions)) HackMIT, Sept 16 - 17, 2017, MIT
 - (**Ended**) hophacks, Sept 15 - 17, 2017, John Hopkins
 - (**Ended**) bigredhacks, Sept 15 - 17, 2017, Cornell
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
