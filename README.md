@@ -2,7 +2,8 @@
 Cool Hackathons for college students
 
 ## Upcoming
-- ([Application Not Started](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
+### Canada
+- ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
 ## Application Closed or Ended
 ### United States
@@ -34,8 +35,6 @@ Cool Hackathons for college students
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
 - (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, 2017, Boston University
-
-### Canada
 
 ## Know More Hackathons?
 Please fork the repo, modify the list and create a merge request.
