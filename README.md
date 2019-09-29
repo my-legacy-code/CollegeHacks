@@ -1,21 +1,21 @@
 # College Hacks
 
 ## Upcoming
-- ([Apply Now](http://hack.wpi.edu)) **Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute**
-- (Application closed) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
-- boilermake, Jan 20 - 22, 2018, Purdue
-- (Application closed) MakeHarvard, Feb 3 - 4, 2018, Harvard
-- (Application closed) hack@Brown, Feb 3 - 4, 2018, Brown
-- (Application closed) TreeHack, Feb 16 - 18, 2018, Stanford
-- hackillinois, Feb 23 - 25, 2018, University of Illinois
-- ([Apply Now](https://my.makemit.org/login)) **MakeMIT, Feb 24, 2018, MIT**
-- ([Apply Now](https://hacktcnj.com)) **HackTCNJ, Feb 24 - 25, The College of New Jersey**
-- vthacks, Feb 2018, Virginia Tech
-- ([Apply Now](https://hacktechteam.typeform.com/to/yJkyRe)) **hacktech, Mar 2 - 4, 2018, California Institute of Technologies**
-- HackDartmouth, Apr 14 - 15, 2018, Dartmouth College
-- ([Apply Now](http://hacktheheights.com/)) **HackTheHeights, April 21-22, Boston College**
 
 ## Application Closed or Ended
+- (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
+- (**Ended**) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
+- boilermake, Jan 20 - 22, 2018, Purdue
+- (**Ended**) MakeHarvard, Feb 3 - 4, 2018, Harvard
+- (**Ended**) hack@Brown, Feb 3 - 4, 2018, Brown
+- (**Ended**) TreeHack, Feb 16 - 18, 2018, Stanford
+- hackillinois, Feb 23 - 25, 2018, University of Illinois
+- (**Ended*) MakeMIT, Feb 24, 2018, MIT
+- (**Ended**) HackTCNJ, Feb 24 - 25, The College of New Jersey
+- vthacks, Feb 2018, Virginia Tech
+- (**Ended**) hacktech, Mar 2 - 4, 2018, California Institute of Technologies
+- HackDartmouth, Apr 14 - 15, 2018, Dartmouth College
+- (**Ended**) HackTheHeights, April 21-22, Boston College
 - (**Ended**) wildhacks, Nov 3 - 5, 2017, Northwestern
 - (**Ended**) HackRPI, Nov 11 - 12, 2017, RPI
 - (**Ended**) YHACK, Dec 1- 3, 2017, Yale
