@@ -6,7 +6,7 @@ Cool Hackathons for college students
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
 ### India
-- ([Accepting Applications](https://www.hackcbs.tech/)) **hackCBS, Oct 19 - 20, 2019, Shaheed Sukhdev College of Business Studies, New Delhi**
+- ([Apply Now](https://www.hackcbs.tech/)) **hackCBS, Oct 19 - 20, 2019, Shaheed Sukhdev College of Business Studies, New Delhi**
 
 ## Application Closed or Ended
 ### United States
