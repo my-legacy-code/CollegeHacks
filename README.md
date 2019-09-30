@@ -5,6 +5,9 @@ Cool Hackathons for college students
 ### Canada
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
+### India
+- ([Apply Now](https://www.hackcbs.tech/)) **hackCBS, Oct 19 - 20, 2019, Shaheed Sukhdev College of Business Studies, New Delhi**
+
 ## Application Closed or Ended
 ### United States
 - (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
