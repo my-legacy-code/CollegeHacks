@@ -2,6 +2,10 @@
 Cool Hackathons for college students
 
 ## Upcoming
+
+### United States 
+- ([Apply Now](https://hackathon.iu.edu)) **IU Hackathon, October 28, 2019, Indiana University, Bloomington, IN**
+
 ### Canada
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
