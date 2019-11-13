@@ -4,7 +4,6 @@ Cool Hackathons for college students
 ## Upcoming
 
 ### United States 
-- ([Apply Now](https://hackathon.iu.edu)) **IU Hackathon, October 28, 2019, Indiana University, Bloomington, IN**
 - ([Apply Now](https://blog.ycombinator.com/apply-to-the-yc-fall-hackathon-2019/)) **Y Combinator Hackathon, November 22, 2019, YC
 Mountain View, CA**
 - ([Apply Now](https://www.mitrealityhack.com/)) **MIT Reality Hack, January 16-20, 2020, MIT, Cambridge, MA**
@@ -12,11 +11,9 @@ Mountain View, CA**
 ### Canada
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
-### India
-- ([Apply Now](https://www.hackcbs.tech/)) **hackCBS, Oct 19 - 20, 2019, Shaheed Sukhdev College of Business Studies, New Delhi**
-
 ## Application Closed or Ended
 ### United States
+- (**Ended**) IU Hackathon, October 28, 2019, Indiana University, Bloomington, IN
 - (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
 - (**Ended**) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
 - (**Ended**) boilermake, Jan 20 - 22, 2018, Purdue
@@ -45,6 +42,9 @@ Mountain View, CA**
 - (**Ended**) HackCMU, Sept 8 - 9, 2017, CMU
 - (**Ended**) pennapps, Sept 8 - 10, 2017, University of Pennsylvania
 - (**Ended**)([Submissions](https://bostonhacks-f17.devpost.com/submissions)) BostonHacks, Oct 28 - 29, 2017, Boston University
+
+### India
+- (**Ended**) hackCBS, Oct 19 - 20, 2019, Shaheed Sukhdev College of Business Studies, New Delhi
 
 ## Know More Hackathons?
 Please fork the repo, modify the list and create a merge request.
