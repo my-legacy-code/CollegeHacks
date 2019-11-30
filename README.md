@@ -7,7 +7,7 @@ Cool Hackathons for college students
 - ([Apply Now](https://blog.ycombinator.com/apply-to-the-yc-fall-hackathon-2019/)) **Y Combinator Hackathon, November 22, 2019, YC
 Mountain View, CA**
 - ([Apply Now](https://www.mitrealityhack.com/)) **MIT Reality Hack, January 16-20, 2020, MIT, Cambridge, MA**
-- ([Apply Now](https://www.register.tamuhack.com/)) **TAMUhack, January 25-26, 2020, Texas A&M University, College Station, TX**
+- ([Apply Now](https://register.tamuhack.com/)) **TAMUhack, January 25-26, 2020, Texas A&M University, College Station, TX**
 
 ### Canada
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
