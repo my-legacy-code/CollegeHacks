@@ -4,8 +4,6 @@ Cool Hackathons for college students
 ## Upcoming
 
 ### United States 
-- ([Apply Now](https://blog.ycombinator.com/apply-to-the-yc-fall-hackathon-2019/)) **Y Combinator Hackathon, November 22, 2019, YC
-Mountain View, CA**
 - ([Apply Now](https://www.mitrealityhack.com/)) **MIT Reality Hack, January 16-20, 2020, MIT, Cambridge, MA**
 - ([Apply Now](https://register.tamuhack.com/)) **TAMUhack, January 25-26, 2020, Texas A&M University, College Station, TX**
 
@@ -14,6 +12,8 @@ Mountain View, CA**
 
 ## Application Closed or Ended
 ### United States
+- (**Ended**) Y Combinator Hackathon, November 22, 2019, YC
+Mountain View, CA
 - (**Ended**) IU Hackathon, October 28, 2019, Indiana University, Bloomington, IN
 - (**Ended**) Hack@WPI, Jan 12 - 14, 2018, Worcester Polytechic Institute
 - (**Ended**) PennApps XVII, Jan 19 - 21, 2018, University of Pennsylvania
