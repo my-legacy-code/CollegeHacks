@@ -5,6 +5,7 @@ Cool Hackathons for college students
 
 ### United States 
 - ([Apply Now](https://www.mitrealityhack.com/)) **MIT Reality Hack, January 16-20, 2020, MIT, Cambridge, MA**
+- ([Apply Now](https://hackdavis.io/) **HackDavis, January 18-19, 2020, UC Davis, Davis, CA**
 - ([Apply Now](https://register.tamuhack.com/)) **TAMUhack, January 25-26, 2020, Texas A&M University, College Station, TX**
 
 ### Canada
