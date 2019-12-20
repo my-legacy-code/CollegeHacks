@@ -11,6 +11,9 @@ Cool Hackathons for college students
 ### Canada
 - ([Application Start Soon](https://www.hackville.io/)) **Hackville, Feb 8 - 10, 2020, Sheridan Colllege, Oakville, ON**
 
+### India
+- ([Apply Now](https://www.hack-vsit.tech/)) **HackVSIT, Jan 31 - Feb 1, 2020, Vivekananda Institute of Professional Studies, New Delhi, India**
+
 ## Application Closed or Ended
 ### United States
 - (**Ended**) Y Combinator Hackathon, November 22, 2019, YC
